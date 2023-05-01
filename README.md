@@ -1,4 +1,4 @@
-###영강동영
+### 강동영
 
 <div align=center><h1>📚 STACKS</h1></div>
 
