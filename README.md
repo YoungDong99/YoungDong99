@@ -1,10 +1,10 @@
 ### 강동영
 
-<h4>🐥 Hammang (진호)</h4>
+<h4>🐥 YoungDong</h4>
 <br>
 
 <p>
-<b>💡 @hammang</b>
+<b>💡 YD</b>
 &nbsp;&nbsp;
 <a href="mailto:programmer7771@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=programmer7771@gmail.com"/></a>
 <a href="https://hammang.github.io/"><img src="https://img.shields.io/badge/TechBlog-03C75A?style=flat&logo=Bloglovin&logoColor=white&link="/></a>
