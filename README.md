@@ -1,10 +1,10 @@
 ### 강동영
 
-<h4>🐥 YoungDong</h4>
+<h4>🐥 백엔드 개발자</h4>
 <br>
 
 <p>
-<b>💡 YD</b>
+<b>💡 @YoungDong</b>
 &nbsp;&nbsp;
 <a href="mailto:programmer7771@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=programmer7771@gmail.com"/></a>
 <a href="https://hammang.github.io/"><img src="https://img.shields.io/badge/TechBlog-03C75A?style=flat&logo=Bloglovin&logoColor=white&link="/></a>
@@ -16,12 +16,9 @@
 <b>✨ Tech Stack</b>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 </p>
 
