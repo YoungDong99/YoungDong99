@@ -1,6 +1,6 @@
 ### 강동영
 
-<h4>🐥 백엔드 개발자 지망생</h4>
+<h4>🐥 데이터 분석 전문가</h4>
 <br>
 
 <p>
@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
+
 </p>
 
 <br>
